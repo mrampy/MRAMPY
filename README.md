@@ -1,7 +1,7 @@
 Hello Guys
 
 
-- 🔭 I’m currently working as ... Technical Service Manager
+- 🔭 I’m currently working on ... CKA certification
 - 🌱 I’m currently learning ... Azure skills and Python
 - 👯 I’m looking to collaborate on ... Python
 - 🤔 I’m looking for help with ... A career change
